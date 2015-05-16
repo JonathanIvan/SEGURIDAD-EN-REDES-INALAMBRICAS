@@ -11,3 +11,6 @@ C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\SeguridadRedInalamb
 C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\SeguridadRedInalambrica\SeguridadRedInalambrica\obj\Debug\SeguridadRedInalambrica.VentanaSeleccion.resources
 C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\SeguridadRedInalambrica\SeguridadRedInalambrica\obj\Debug\SeguridadRedInalambrica.VentanaArrisTG862A.resources
 C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\SeguridadRedInalambrica\SeguridadRedInalambrica\obj\Debug\SeguridadRedInalambrica.PantallaInicio.resources
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\SEGURIDAD-EN-REDES-INALAMBRICAS\SeguridadRedInalambrica\SeguridadRedInalambrica\bin\Debug\SeguridadRedInalambrica.exe.config
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\SEGURIDAD-EN-REDES-INALAMBRICAS\SeguridadRedInalambrica\SeguridadRedInalambrica\obj\Debug\SeguridadRedInalambrica.exe
+C:\Users\Jonathan Ivan\Documents\Visual Studio 2013\Projects\SEGURIDAD-EN-REDES-INALAMBRICAS\SeguridadRedInalambrica\SeguridadRedInalambrica\obj\Debug\SeguridadRedInalambrica.pdb
